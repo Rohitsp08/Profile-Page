@@ -1,0 +1,39 @@
+
+.fa-linkedin:hover{
+        color:rgb(66, 66, 244);
+        cursor: pointer;
+
+}
+.fa-instagram:hover{
+        color:rgb(191, 94, 154);
+        cursor: pointer;
+}
+
+.fa-facebook:hover{
+        color:rgb(41, 41, 215);
+        cursor: pointer;
+}
+
+.b1{
+        background-color: #ECEFF1;
+
+}
+
+#container-1{
+        height: 730px;
+}
+
+img{
+        mix-blend-mode: darken;
+        height:600px;
+        width:520px;
+}
+
+#container-2{
+        height:780px;
+        width:75%;
+}
+
+#About{
+        background-color: rgba(196, 201, 203, 0.4);
+}
